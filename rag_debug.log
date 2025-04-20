@@ -1,0 +1,120 @@
+2025-04-08 01:08:46,033 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-04-08 01:08:48,104 - jax._src.path - DEBUG - etils.epath found. Using etils.epath for file I/O.
+2025-04-08 01:08:48,476 - datasets - INFO - PyTorch version 2.1.0 available.
+2025-04-08 01:08:48,483 - datasets - INFO - JAX version 0.5.3 available.
+2025-04-08 01:08:49,011 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-04-08 01:08:49,012 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-04-08 01:08:49,015 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-08 01:08:50,014 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2025-04-08 01:08:50,870 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/11" 200 0
+2025-04-08 01:08:51,190 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/11" 200 0
+2025-04-08 01:08:51,990 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2025-04-08 01:08:52,788 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/11" 200 0
+2025-04-08 01:08:53,111 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/adapter_config.json HTTP/11" 404 0
+2025-04-08 01:08:53,430 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/11" 200 0
+2025-04-08 01:08:54,335 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2025-04-08 01:08:54,687 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/11" 200 6759
+2025-04-08 01:08:54,997 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/11" 200 6759
+2025-04-08 01:08:55,042 - faiss.loader - DEBUG - Environment variable FAISS_OPT_LEVEL is not set, so let's pick the instruction set according to the current CPU
+2025-04-08 01:08:55,043 - faiss.loader - INFO - Loading faiss with AVX512 support.
+2025-04-08 01:08:55,043 - faiss.loader - INFO - Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+2025-04-08 01:08:55,043 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-04-08 01:08:55,061 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-04-08 01:08:55,069 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-04-08 01:14:08,579 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-04-08 01:14:10,391 - jax._src.path - DEBUG - etils.epath found. Using etils.epath for file I/O.
+2025-04-08 01:14:10,977 - datasets - INFO - PyTorch version 2.1.0 available.
+2025-04-08 01:14:10,991 - datasets - INFO - JAX version 0.5.3 available.
+2025-04-08 01:14:11,767 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-04-08 01:14:11,769 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-04-08 01:14:11,772 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-08 01:14:12,243 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2025-04-08 01:14:12,667 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/11" 200 0
+2025-04-08 01:14:13,147 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/11" 200 0
+2025-04-08 01:14:14,116 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2025-04-08 01:14:14,906 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/11" 200 0
+2025-04-08 01:14:15,707 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/adapter_config.json HTTP/11" 404 0
+2025-04-08 01:14:16,028 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/11" 200 0
+2025-04-08 01:14:17,467 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2025-04-08 01:14:17,953 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/11" 200 6759
+2025-04-08 01:14:18,261 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/11" 200 6759
+2025-04-08 01:14:18,310 - faiss.loader - DEBUG - Environment variable FAISS_OPT_LEVEL is not set, so let's pick the instruction set according to the current CPU
+2025-04-08 01:14:18,311 - faiss.loader - INFO - Loading faiss with AVX512 support.
+2025-04-08 01:14:18,312 - faiss.loader - INFO - Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+2025-04-08 01:14:18,312 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-04-08 01:14:18,339 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-04-08 01:14:18,351 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-04-08 01:18:33,913 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-04-08 01:18:35,994 - jax._src.path - DEBUG - etils.epath found. Using etils.epath for file I/O.
+2025-04-08 01:18:36,502 - datasets - INFO - PyTorch version 2.1.0 available.
+2025-04-08 01:18:36,515 - datasets - INFO - JAX version 0.5.3 available.
+2025-04-08 01:18:37,262 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-04-08 01:18:37,263 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-04-08 01:18:37,268 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-08 01:18:37,708 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2025-04-08 01:18:38,488 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/11" 200 0
+2025-04-08 01:18:38,771 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/11" 200 0
+2025-04-08 01:18:39,061 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2025-04-08 01:18:39,336 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/11" 200 0
+2025-04-08 01:18:39,635 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/adapter_config.json HTTP/11" 404 0
+2025-04-08 01:18:39,959 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/11" 200 0
+2025-04-08 01:18:41,168 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2025-04-08 01:18:41,561 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/11" 200 6759
+2025-04-08 01:18:41,877 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/11" 200 6759
+2025-04-08 01:18:41,922 - faiss.loader - DEBUG - Environment variable FAISS_OPT_LEVEL is not set, so let's pick the instruction set according to the current CPU
+2025-04-08 01:18:41,923 - faiss.loader - INFO - Loading faiss with AVX512 support.
+2025-04-08 01:18:41,924 - faiss.loader - INFO - Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+2025-04-08 01:18:41,925 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-04-08 01:18:41,959 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-04-08 01:18:41,976 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-04-08 04:46:39,876 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-04-08 04:46:43,345 - jax._src.path - DEBUG - etils.epath found. Using etils.epath for file I/O.
+2025-04-08 04:46:43,856 - datasets - INFO - PyTorch version 2.1.0 available.
+2025-04-08 04:46:43,862 - datasets - INFO - JAX version 0.5.3 available.
+2025-04-08 04:46:45,455 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-04-08 04:46:45,456 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-04-08 04:46:45,467 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-08 04:46:46,586 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2025-04-08 04:46:48,985 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/11" 200 0
+2025-04-08 04:46:49,634 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/11" 200 0
+2025-04-08 04:46:50,746 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2025-04-08 04:46:51,385 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/11" 200 0
+2025-04-08 04:46:52,584 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/adapter_config.json HTTP/11" 404 0
+2025-04-08 04:46:52,986 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/11" 200 0
+2025-04-08 04:46:54,442 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2025-04-08 04:46:55,009 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/11" 200 6759
+2025-04-08 04:46:55,389 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/11" 200 6759
+2025-04-08 04:46:55,417 - faiss.loader - DEBUG - Environment variable FAISS_OPT_LEVEL is not set, so let's pick the instruction set according to the current CPU
+2025-04-08 04:46:55,417 - faiss.loader - INFO - Loading faiss with AVX512 support.
+2025-04-08 04:46:55,418 - faiss.loader - INFO - Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+2025-04-08 04:46:55,418 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-04-08 04:46:55,625 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-04-08 04:46:55,636 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-04-08 04:51:18,213 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-04-08 04:51:19,823 - jax._src.path - DEBUG - etils.epath found. Using etils.epath for file I/O.
+2025-04-08 04:51:20,233 - datasets - INFO - PyTorch version 2.1.0 available.
+2025-04-08 04:51:20,239 - datasets - INFO - JAX version 0.5.3 available.
+2025-04-08 04:51:20,860 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-04-08 04:51:20,860 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-04-08 04:51:20,865 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-08 04:51:21,344 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2025-04-08 04:51:22,138 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/11" 200 0
+2025-04-08 04:51:22,438 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/11" 200 0
+2025-04-08 04:51:22,922 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2025-04-08 04:51:23,403 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/11" 200 0
+2025-04-08 04:51:23,882 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/adapter_config.json HTTP/11" 404 0
+2025-04-08 04:51:24,363 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/11" 200 0
+2025-04-08 04:51:25,646 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2025-04-08 04:51:26,317 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/11" 200 6759
+2025-04-08 04:51:26,657 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/11" 200 6759
+2025-04-08 04:51:26,699 - faiss.loader - DEBUG - Environment variable FAISS_OPT_LEVEL is not set, so let's pick the instruction set according to the current CPU
+2025-04-08 04:51:26,700 - faiss.loader - INFO - Loading faiss with AVX512 support.
+2025-04-08 04:51:26,701 - faiss.loader - INFO - Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+2025-04-08 04:51:26,701 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-04-08 04:51:26,730 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-04-08 04:51:26,742 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
