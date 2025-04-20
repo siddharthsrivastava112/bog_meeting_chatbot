@@ -1,8 +1,11 @@
 import os
 import re
+<<<<<<< HEAD
 import nltk
 import wordninja
 import fitz  # PyMuPDF for PDF parsing
+=======
+>>>>>>> eddef79f9979c890bcf59faac7f92ce9a5c33f28
 from tqdm import tqdm
 from docx import Document as DocxDocument
 from langchain_community.vectorstores import FAISS
