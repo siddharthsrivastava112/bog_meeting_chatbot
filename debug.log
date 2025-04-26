@@ -1,0 +1,62 @@
+2025-03-29 11:55:55,829 - INFO - Use pytorch device_name: cpu
+2025-03-29 11:55:55,829 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-29 11:55:55,831 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-03-29 11:55:56,314 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2025-03-29 11:55:56,642 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/11" 200 0
+2025-03-29 11:55:56,953 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/11" 200 0
+2025-03-29 11:55:57,274 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2025-03-29 11:55:57,556 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/11" 200 0
+2025-03-29 11:55:57,845 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/adapter_config.json HTTP/11" 404 0
+2025-03-29 11:55:58,234 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/11" 200 0
+2025-03-29 11:55:59,024 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2025-03-29 11:55:59,344 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/11" 200 6759
+2025-03-29 11:55:59,654 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/11" 200 6759
+2025-03-29 11:55:59,928 - DEBUG - https://huggingface.co:443 "HEAD /mistralai/Mistral-7B-Instruct-v0.3/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2025-03-29 11:56:00,757 - DEBUG - https://huggingface.co:443 "HEAD /mistralai/Mistral-7B-Instruct-v0.3/resolve/main/config.json HTTP/11" 200 0
+2025-03-29 11:56:55,230 - INFO - Use pytorch device_name: cpu
+2025-03-29 11:56:55,230 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-29 11:56:55,232 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-03-29 11:56:55,691 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2025-03-29 11:56:56,494 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/11" 200 0
+2025-03-29 11:56:56,794 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/11" 200 0
+2025-03-29 11:56:57,114 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2025-03-29 11:56:57,435 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/11" 200 0
+2025-03-29 11:56:57,709 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/adapter_config.json HTTP/11" 404 0
+2025-03-29 11:56:57,994 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/11" 200 0
+2025-03-29 11:56:59,051 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2025-03-29 11:56:59,381 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/11" 200 6759
+2025-03-29 11:56:59,673 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/11" 200 6759
+2025-03-29 11:56:59,993 - DEBUG - https://huggingface.co:443 "HEAD /mistralai/Mistral-7B-Instruct-v0.3/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2025-03-29 11:57:00,955 - DEBUG - https://huggingface.co:443 "HEAD /mistralai/Mistral-7B-Instruct-v0.3/resolve/main/config.json HTTP/11" 200 0
+2025-03-29 11:59:35,025 - INFO - Use pytorch device_name: cpu
+2025-03-29 11:59:35,025 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-29 11:59:35,027 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-03-29 11:59:35,528 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2025-03-29 11:59:35,832 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/11" 200 0
+2025-03-29 11:59:36,119 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/11" 200 0
+2025-03-29 11:59:36,809 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2025-03-29 11:59:37,513 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/11" 200 0
+2025-03-29 11:59:37,788 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/adapter_config.json HTTP/11" 404 0
+2025-03-29 11:59:38,158 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/11" 200 0
+2025-03-29 11:59:39,073 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2025-03-29 11:59:39,409 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/11" 200 6759
+2025-03-29 11:59:39,774 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/11" 200 6759
+2025-03-29 11:59:40,049 - DEBUG - https://huggingface.co:443 "HEAD /mistralai/Mistral-7B-Instruct-v0.3/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2025-03-29 11:59:40,953 - DEBUG - https://huggingface.co:443 "HEAD /mistralai/Mistral-7B-Instruct-v0.3/resolve/main/config.json HTTP/11" 200 0
+2025-03-29 12:01:30,600 - INFO - Initializing models...
+2025-03-29 12:01:30,604 - INFO - Use pytorch device_name: cpu
+2025-03-29 12:01:30,604 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-29 12:01:30,605 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-03-29 12:01:31,192 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2025-03-29 12:01:31,563 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/11" 200 0
+2025-03-29 12:01:31,833 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/11" 200 0
+2025-03-29 12:01:32,151 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2025-03-29 12:01:32,604 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/11" 200 0
+2025-03-29 12:01:32,914 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/adapter_config.json HTTP/11" 404 0
+2025-03-29 12:01:33,188 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/11" 200 0
+2025-03-29 12:01:33,960 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2025-03-29 12:01:34,270 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/11" 200 6759
+2025-03-29 12:01:34,563 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/11" 200 6759
+2025-03-29 12:01:34,566 - INFO - Embedding model loaded successfully.
+2025-03-29 12:01:34,871 - DEBUG - https://huggingface.co:443 "HEAD /mistralai/Mistral-7B-Instruct-v0.3/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2025-03-29 12:01:35,706 - DEBUG - https://huggingface.co:443 "HEAD /mistralai/Mistral-7B-Instruct-v0.3/resolve/main/config.json HTTP/11" 200 0
