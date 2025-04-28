@@ -1,6 +1,6 @@
 import { useState } from 'react';
-// import ChatBot from './components/ChatBot';
-// import Sidebar from './components/Sidebar/Sidebar';
+import ChatBot from './components/Chatbot';
+import Sidebar from './components/Sidebar/Sidebar';
 
 function App() {
   const [currentChat, setCurrentChat] = useState(null);
